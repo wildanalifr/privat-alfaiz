@@ -85,7 +85,7 @@
                   </Popover>
 
                   <div class="mt-16 mx-auto max-w-7xl px-4 sm:mt-24">
-                        <img src="@/assets/hero-1 1.png" class="w-1/3 mx-auto hidden sm:block" alt srcset />
+                        <img src="@/assets/hero-fix.png" class="w-1/3 mx-auto hidden sm:block" alt srcset />
                         <div class="text-center">
                               <h1 class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
                                     <span class="block xl:inline">Belajar untuk Persiapan Masuk</span>
